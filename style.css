@@ -1,0 +1,28 @@
+/* organizing  */
+
+body {
+    margin: 0px auto;
+    background-color: rgba(0, 0, 0, 0.314);
+}
+.container {
+    width: 50%;
+    margin: 0px auto;
+    background-color: white;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 70px;
+}
+
+/* Details  */
+
+input {
+    border: none;
+    width: 50%;
+}
